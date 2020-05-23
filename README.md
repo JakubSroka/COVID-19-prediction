@@ -8,3 +8,4 @@ https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd402
 https://stackoverflow.com/questions/4308168/sigmoidal-regression-with-scipy-numpy-python-etc
 https://www.kaggle.com/madz2000/simple-covid19-week-4-prediction-with-xgbregressor/comments%20(19)
 https://www.kaggle.com/mielek/covid19-forecasting-xgboost
+https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model?fbclid=IwAR1xHZG0Uz4eVjpWDxRst80AYzCmo3DGz6wwvWkGUbwp2wlAweIGeOVs7MI#Introduction
